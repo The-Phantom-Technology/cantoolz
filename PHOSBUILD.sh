@@ -12,6 +12,7 @@ else
   # houston we have a problem
   exit 1
 fi
+cd /opt/PHANTX/CANToolz
 
 python3 setup.py install
 
