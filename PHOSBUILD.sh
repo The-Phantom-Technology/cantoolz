@@ -18,3 +18,4 @@ python3 setup.py install
 
 chmod -R 755 /opt/PHANTX
 rm -rf /opt/PHOS/tool/cantoolz
+rm -rf /opt/PHOS/tool/cantoolz
