@@ -13,6 +13,7 @@ else
   exit 1
 fi
 
+python3 setup.py install
 
 chmod -R 755 /opt/PHANTX
 rm -rf /opt/PHOS/tool/cantoolz
